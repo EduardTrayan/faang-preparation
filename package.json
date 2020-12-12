@@ -1,0 +1,11 @@
+{
+  "name": "faang",
+  "version": "1.0.0",
+  "scripts":{
+    "test" : "mocha tests/**/*.test.js"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}

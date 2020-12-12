@@ -1,1 +1,1 @@
-# faang-preparation
+# Preparation for FAANG interview
