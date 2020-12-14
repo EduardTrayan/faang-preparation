@@ -1,4 +1,4 @@
-const answers = require('../../../algoexpert/validatesubsequence');
+const answers = require('../../../algorithms/algoexpert/validatesubsequence');
 const chai = require('chai');
 
 describe('Test validate subsequence', function() {

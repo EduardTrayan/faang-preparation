@@ -1,4 +1,4 @@
-const answers = require('../../../algoexpert/twonumbersum');
+const answers = require('../../../algorithms/algoexpert/twonumbersum');
 const chai = require('chai');
 
 describe('Test two numbers sum', function() {
