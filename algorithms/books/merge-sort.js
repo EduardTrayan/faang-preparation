@@ -33,7 +33,7 @@ const merge = (arr, l, r, q) => {
 	let j = 0;
 	let i = l;
 	
-	while (k < aLen || b < bLen || i <= r) {
+	while (k < aLen || j < bLen || i <= r) {
 		if (k < a.length && j < b.length) {
 			if (a[k] < b[j]) {
 				arr[i] = a[k++];
